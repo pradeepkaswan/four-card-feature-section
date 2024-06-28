@@ -1,0 +1,27 @@
+{
+	"title": "Reliable, efficient delivery",
+	"subtitle": "Powered by Technology",
+	"description": "Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful.",
+	"tools": [
+		{
+			"name": "Supervisor",
+			"description": "Monitors activity to identify project roadblocks",
+			"icon": "./images/icon-supervisor.svg"
+		},
+		{
+			"name": "Team Builder",
+			"description": "Scans our talent network to create the optimal team for your project",
+			"icon": "./images/icon-team-builder.svg"
+		},
+		{
+			"name": "Karma",
+			"description": "Regularly evaluates our talent to ensure quality",
+			"icon": "./images/icon-karma.svg"
+		},
+		{
+			"name": "Calculator",
+			"description": "Uses data from past projects to provide better delivery estimates",
+			"icon": "./images/icon-calculator.svg"
+		}
+	]
+}
